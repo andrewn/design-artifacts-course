@@ -1,7 +1,6 @@
 source :rubygems
 
-gem "nokogiri"
-gem "stasis"
+gem "jekyll"
 
 group :development do
   gem 'guard'
