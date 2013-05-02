@@ -8,9 +8,9 @@
 </head>
 <body>
   <div class="nav">
-    <%= render 'partials/_nav.html.erb' %>
+    {% include nav.md %}
   </div>
 
-  <%= yield %>
+  {{ content }}
 </body>
 </html>
