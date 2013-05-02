@@ -1,4 +1,6 @@
 <ul>
+  <li class="home"><a href="/design-artifacts-course/">Home</a></li>
+
   <li class="my-gap"><a href="/design-artifacts-course/gap/">My Gap</a></li>
   <li class="week-1"><a href="/design-artifacts-course/week/1/">Week 1</a></li>
   <li class="week-2"><a href="/design-artifacts-course/week/2/">Week 2</a></li>

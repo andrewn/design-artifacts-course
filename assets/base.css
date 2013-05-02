@@ -9,3 +9,6 @@ ul li {
   padding-bottom: 16px;
 }
 
+blockquote {
+  color: rgba(0,0,0,0.7);
+}
