@@ -1,4 +1,11 @@
 /* base */
 body {
+  line-height: 24px;
   font-family: sans-serif;
 }
+
+ol li,
+ul li {
+  padding-bottom: 16px;
+}
+

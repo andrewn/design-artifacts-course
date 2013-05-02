@@ -35,8 +35,7 @@
 
 /* post */
 .post {
-  border-bottom: 1px solid gray;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 .post:last-child {
@@ -46,8 +45,19 @@
 .post time {
   font-size: 0.8em;
   font-weight: bold;
+  color: rgba(0,0,0,0.7);
 }
 
 .post h2 {
   margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.post img {
+  width: 100%;
+  margin: 8px 0;
+}
+
+.post .img-3 img {
+  width: 33%;
 }

@@ -16,3 +16,15 @@ a:hover {
   color: rgba(0,0,0,0.7);
   text-decoration: underline;
 }
+
+img {
+  width: 100%;
+}
+
+.col-1 {
+  width: 33%;
+}
+
+.col-2 {
+  width: 66%;
+}
