@@ -21,6 +21,7 @@
   padding: 0 8px;
 }
 
+#home .nav li.home a,
 #my-gap .nav li.my-gap a,
 #week-1 .nav li.week-1 a,
 #week-2 .nav li.week-2 a,
@@ -31,6 +32,10 @@
 #week-7 .nav li.week-7 a,
 #week-8 .nav li.week-8 a {
   font-weight: bold;
+  color: #FF4400;
+}
+
+.active {
   color: #FF4400;
 }
 

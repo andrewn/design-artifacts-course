@@ -40,3 +40,8 @@ img {
 .col-2 {
   width: 66%;
 }
+
+.intro {
+  font-size: 34px;
+  line-height: 50px;
+}
